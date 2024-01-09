@@ -35,7 +35,7 @@ class DoublyLinkedList:
         self.tail.next = None
         self.length -= 1
 
-    def reverse(self):
+    # def reverse(self):
         
 
 
